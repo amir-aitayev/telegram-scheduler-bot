@@ -34,7 +34,7 @@ Before running the bot, set the following environment variables:
 ```bash
 BOT_TOKEN=your_telegram_bot_token
 CHAT_ID=your_chat_or_user_id
-TZ=Europe/Rome
+TZ=your_location
 How to get these values
 BOT_TOKEN: Create a bot via @BotFather
 CHAT_ID:
